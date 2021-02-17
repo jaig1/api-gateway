@@ -40,7 +40,7 @@
 		<!-- other versions -->
 		<camel.version>2.19.0</camel.version>
 		<spring-boot.version>1.4.4.RELEASE</spring-boot.version>
-		<springfox.version>2.4.0</springfox.version>
+		<springfox.version>2.10.0</springfox.version>
 		<version.jaeger>0.19.0</version.jaeger>
 		<io.opentracing.version>0.22.0</io.opentracing.version>
 
